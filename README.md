@@ -1,1 +1,1 @@
-Differents personal commits
+Different personal commits
